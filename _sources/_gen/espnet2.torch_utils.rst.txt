@@ -15,17 +15,6 @@ espnet2.torch_utils.get_layer_from_string
     :show-inheritance:
 
 
-.. _espnet2.torch_utils.__init__:
-
-espnet2.torch_utils.__init__
-----------------------------
-
-.. automodule:: espnet2.torch_utils.__init__
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-
 .. _espnet2.torch_utils.add_gradient_noise:
 
 espnet2.torch_utils.add_gradient_noise
@@ -70,17 +59,6 @@ espnet2.torch_utils.load_pretrained_model
     :show-inheritance:
 
 
-.. _espnet2.torch_utils.set_all_random_seed:
-
-espnet2.torch_utils.set_all_random_seed
----------------------------------------
-
-.. automodule:: espnet2.torch_utils.set_all_random_seed
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-
 .. _espnet2.torch_utils.device_funcs:
 
 espnet2.torch_utils.device_funcs
@@ -114,12 +92,34 @@ espnet2.torch_utils.forward_adaptor
     :show-inheritance:
 
 
+.. _espnet2.torch_utils.set_all_random_seed:
+
+espnet2.torch_utils.set_all_random_seed
+---------------------------------------
+
+.. automodule:: espnet2.torch_utils.set_all_random_seed
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
 .. _espnet2.torch_utils.initialize:
 
 espnet2.torch_utils.initialize
 ------------------------------
 
 .. automodule:: espnet2.torch_utils.initialize
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+.. _espnet2.torch_utils.__init__:
+
+espnet2.torch_utils.__init__
+----------------------------
+
+.. automodule:: espnet2.torch_utils.__init__
     :members:
     :undoc-members:
     :show-inheritance:
